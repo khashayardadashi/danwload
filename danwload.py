@@ -12,11 +12,3 @@ Link=input("please enter your link :")
 Format=input ("please enter your format :")
 dawnload = dawnload(Link,Format)
 dawnload.dawnload()
-
-
-
-        
-        
-        
-
-
